@@ -20,16 +20,6 @@ body {
     background-color: rgb(15, 15, 15);
 }
 
-ul {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-
-li {
-    list-style: none;
-}
-
 .slider {
     position: relative;
     width: 100vw; height: 100vh;
