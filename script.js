@@ -157,5 +157,5 @@ sliderTrack.style.transform = 'translate3d(0px, 0px, 0px)'
 sliderList.classList.add('grab')
 
 sliderTrack.addEventListener('transitionend', () => (allowSwipe = true))
-slider.addEventListener('touchstart', swipeStart)
-slider.addEventListener('mousedown', swipeStart)
+sliderTrack.addEventListener('touchstart', swipeStart)
+sliderTrack.addEventListener('mousedown', swipeStart)

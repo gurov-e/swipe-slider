@@ -68,8 +68,6 @@ body {
     margin-left: 60px;
     color: var(--grey);
     mix-blend-mode: difference;
-    width: 30px; height: 30px;
-    border-radius: 50%;
 }
 
 
